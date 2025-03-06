@@ -1,7 +1,6 @@
-# interDance_API
-The render code for interDance.  
+# duetDance_API
+The render code for duetDance.  
 The complete project code, including data preprocessing, training, inference and evaluating with our pretrained model, will be made publicly available.   
-For more details, please visit our [webpage](https://inter-dance.github.io/).
 ## Getting started
 
 This code was tested on `Ubuntu 20.04.1 LTS` and requires:
